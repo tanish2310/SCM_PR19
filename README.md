@@ -3,7 +3,7 @@
 
 
 
-## PROJECT NAME -> Space wars
+## PROJECT NAME -> Snake & Apple
 ### Team Members
 Manager-> Teena Rai (2310992150)
 
