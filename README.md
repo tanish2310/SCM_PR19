@@ -5,9 +5,9 @@
 
 ## PROJECT NAME -> Snake & Apple
 ### Team Members
-Manager-> Teena Rai (2310992150)
+Manager->  Teena Rai (2310992150)
 
-Developer-> Tanish Wadhwa (2310992149)
+Developer->  Tanish Wadhwa (2310992149)
 
-Tester-> Mehak Singla (2310992151)
+Tester->  Mehak Singla (2310992151)
 
