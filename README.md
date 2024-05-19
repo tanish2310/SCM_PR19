@@ -2,14 +2,13 @@
 
 ## Project Information
 - **Primary Owner:** Tanish Wadhwa (2310992149)
-- **Secondary Owner:** Teena (2310992150)
+- **Secondary Owner:** Teena Rai (2310992150)
 
 ## Game Overview
 Experience the nostalgia of classic arcade gaming with the Snake and Apple game. Relive the excitement of maneuvering the snake to devour apples while avoiding collisions with walls and its own tail.
 
 ## Key Features:
 - **Classic Gameplay**: Enjoy the timeless gameplay of controlling a snake to eat apples and grow longer.
-- **Intuitive Controls**: Navigate the snake using arrow keys for a seamless gaming experience.
 - **Dynamic Sound Effects**: Immerse yourself in the game with interactive sound effects for collisions and apple consumption.
 - **Scoring System**: Track your progress with a built-in scoring system that records the length of the snake.
 - **Responsive Design**: Experience smooth gameplay on a dynamically rendered game window.
@@ -25,7 +24,6 @@ Experience the nostalgia of classic arcade gaming with the Snake and Apple game.
 ## Project Structure:
 - **main.py**: Python script containing the game logic and main execution loop.
 - **resources/**: Directory containing images and sound files used in the game.
-  - **apple.jpg**: Image file for the apple sprite.
   - **block.jpg**: Image file for the snake's body segments.
   - **background.jpg**: Image file for the game background.
   - **bg_music_1.mp3**: Background music file for the game.
